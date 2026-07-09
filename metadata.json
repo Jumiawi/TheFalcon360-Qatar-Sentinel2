@@ -1,5 +1,5 @@
 {
-  "dataset_name": "The Falcon 360° Bahrain Sentinel-2 Satellite Dataset v1.0",
+  "dataset_name": "The Falcon 360° Qatar Sentinel-2 Satellite Dataset v1.0",
 
   "creator": {
     "name": "Walaa Ali H. Jumiawi",
@@ -8,7 +8,7 @@
     "orcid": "https://orcid.org/0000-0002-5348-7970"
   },
 
-  "country": "Bahrain",
+  "country": "Qatar",
 
   "satellite": "Sentinel-2 MSI",
 
