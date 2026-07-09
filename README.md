@@ -15,7 +15,7 @@ https://doi.org/10.5281/zenodo.21285006
 
 Direct download:
 
-https://zenodo.org/records/21270614/files/sentinel2_Qatar_research_dataset%202.zip?download=1
+https://zenodo.org/records/21285006/files/sentinel2_qatar_research_dataset.zip?download=1
 
 ## Creator
 
