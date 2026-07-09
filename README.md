@@ -11,7 +11,7 @@ The dataset contains RGB satellite image patches generated from Sentinel-2 Level
 
 The complete dataset is available from Zenodo:
 
-https://doi.org/10.5281/zenodo.21270614
+https://doi.org/10.5281/zenodo.21285006
 
 Direct download:
 
@@ -129,6 +129,6 @@ The Falcon 360° Qatar Sentinel-2 Satellite Dataset v1.0.
 Zenodo.
 
 DOI:
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21270614.svg)](https://doi.org/10.5281/zenodo.21270614)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21270614.svg)](https://doi.org/10.5281/zenodo.21285006)
 
 
