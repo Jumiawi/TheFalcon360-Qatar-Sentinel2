@@ -1,0 +1,32 @@
+cff-version: 1.2.0
+
+title: "The Falcon 360° Bahrain Sentinel-2 Satellite Dataset v1.0"
+
+authors:
+  - family-names: Jumiawi
+    given-names: Walaa Ali H.
+
+publisher: "The Falcon 360°"
+
+version: "1.0"
+
+date-released: "2026"
+
+doi: "10.5281/zenodo.21270614"
+
+url: "https://thefalcon360.com"
+
+keywords:
+  - Sentinel-2
+  - satellite imagery
+  - remote sensing
+  - computer vision
+  - deep learning
+  - image segmentation
+
+abstract: >
+  The Falcon 360° Bahrain Sentinel-2 Satellite Dataset is an AI-ready
+  remote sensing dataset containing RGB satellite image patches generated
+  from Sentinel-2 Level-2A imagery covering Bahrain.
+
+repository-code: "https://github.com/Jumiawi/TheFalcon360-Bahrain-Sentinel2"

@@ -1,0 +1,30 @@
+{
+  "dataset_name": "The Falcon 360° Bahrain Sentinel-2 Dataset",
+
+  "version": "1.0",
+
+  "author": "Walaa Ali H. Jumiawi",
+
+  "organization": "The Falcon 360°",
+
+  "country": "Bahrain",
+
+  "sensor": "Sentinel-2 MSI",
+
+  "image_channels": 3,
+
+  "image_height": 512,
+
+  "image_width": 512,
+
+  "formats": [
+    "PNG",
+    "GeoTIFF"
+  ],
+
+  "tasks": [
+    "segmentation",
+    "classification",
+    "detection"
+  ]
+}

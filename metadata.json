@@ -1,0 +1,41 @@
+{
+  "dataset_name": "The Falcon 360° Bahrain Sentinel-2 Satellite Dataset v1.0",
+
+  "creator": {
+    "name": "Walaa Ali H. Jumiawi",
+    "organization": "The Falcon 360°",
+    "website": "https://thefalcon360.com",
+    "orcid": "https://orcid.org/0000-0002-5348-7970"
+  },
+
+  "country": "Bahrain",
+
+  "satellite": "Sentinel-2 MSI",
+
+  "product": "Level-2A",
+
+  "bands": [
+    "B04 Red",
+    "B03 Green",
+    "B02 Blue"
+  ],
+
+  "resolution": "10 meters per pixel",
+
+  "patch_size": "512x512",
+
+  "formats": [
+    "PNG",
+    "GeoTIFF"
+  ],
+
+  "tasks": [
+    "semantic segmentation",
+    "classification",
+    "object detection"
+  ],
+
+  "source": "Copernicus Sentinel-2 via Microsoft Planetary Computer",
+
+  "publisher": "The Falcon 360°"
+}
