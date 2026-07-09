@@ -1,11 +1,11 @@
-# The Falcon 360° Bahrain Sentinel-2 Dataset
+# The Falcon 360° Qatar Sentinel-2 Dataset
 
 
 ## Dataset Summary
 
-The Falcon 360° Bahrain Sentinel-2 Dataset is an AI-ready satellite imagery dataset created for computer vision and deep learning applications.
+The Falcon 360° Qatar Sentinel-2 Dataset is an AI-ready satellite imagery dataset created for computer vision and deep learning applications.
 
-The dataset contains RGB satellite image patches generated from Sentinel-2 Level-2A imagery covering Bahrain.
+The dataset contains RGB satellite image patches generated from Sentinel-2 Level-2A imagery covering Qatar.
 
 ## Dataset Download
 
@@ -15,7 +15,7 @@ https://doi.org/10.5281/zenodo.21270614
 
 Direct download:
 
-https://zenodo.org/records/21270614/files/sentinel2_bahrain_research_dataset%202.zip?download=1
+https://zenodo.org/records/21270614/files/sentinel2_Qatar_research_dataset%202.zip?download=1
 
 ## Creator
 
@@ -45,9 +45,9 @@ https://orcid.org/0000-0002-5348-7970
 
 Country:
 
-Bahrain
+Qatar
 
-![Bahrain Dataset Preview](assets/Bahrain.png)
+![Qatar Dataset Preview](assets/Qatar.png)
 
 Satellite:
 
@@ -124,7 +124,7 @@ Accessed through Microsoft Planetary Computer.
 
 Walaa Ali H. Jumiawi (2026).
 
-The Falcon 360° Bahrain Sentinel-2 Satellite Dataset v1.0.
+The Falcon 360° Qatar Sentinel-2 Satellite Dataset v1.0.
 
 Zenodo.
 
